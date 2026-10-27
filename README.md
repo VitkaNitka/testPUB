@@ -1,0 +1,1 @@
+*Док для проекта testPUBproject*
